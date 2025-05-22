@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Thiago de Andrade Pena, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na Universidade Veiga de Almeida (UVA). Sou apaixonado por tecnologia.
+Me chamo Thiago de Andrade Pena, tenho 20 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na Universidade Veiga de Almeida (UVA). Curto muito as áreas de Inteligência Artificial e Computação em Nuvem, e estou sempre buscando aprender mais sobre essas tecnologias. Já tenho uma certificação em AWS Academy Cloud Foundations e venho me dedicando cada vez mais a entender como tudo funciona na prática. Gosto de explorar, criar e aprender coisas novas todos os dias.
+
+
 
 <p align="left">
     <a>
@@ -12,14 +14,10 @@ Me chamo Thiago de Andrade Pena, tenho 20 anos e sou natural do Rio de Janeiro. 
             src="https://custom-icon-badges.demolab.com/badge/(21) 98230--5395-orange?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
-    <a href="thiagoth3005@gmail.com">
-        <img 
-            alt="E-mail" 
-            title="Meu Gmail" 
-            src="https://custom-icon-badges.demolab.com/badge/deandradepenathiago@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+    <a href = "mailto:deandradepenathiago@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <a href="www.linkedin.com/in/thiago-de-andrade-pena-981984353" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 ---
