@@ -84,25 +84,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebse
 <br/>
 <br/>
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Thiag0h&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiag0h&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=thiag0h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thiag0h&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
