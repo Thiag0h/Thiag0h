@@ -7,18 +7,13 @@ Me chamo Thiago de Andrade Pena, tenho 20 anos e sou natural do Rio de Janeiro. 
 
 
 <p align="left">
-    <a>
-        <img 
-            alt="Telefone" 
-            title="Meu telefone" 
-            src="https://custom-icon-badges.demolab.com/badge/(21) 98230--5395-orange?style=for-the-badge&logo=phone&logoColor=white"
-        />
-    </a>
     <a href = "mailto:deandradepenathiago@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
     <a href="https://www.linkedin.com/in/thiago-de-andrade-pena-981984353" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/thiiag0h/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
+
 
 ---
 
@@ -84,7 +79,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebse
 <br/>
 <br/>
 ### 📊 Estatísticas
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=thiag0h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=thiag0h&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
